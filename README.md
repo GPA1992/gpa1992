@@ -1,6 +1,6 @@
-## Olá, sou o Gabriel Proença de Araujo. 
+## Olá, sou o Gabriel Proença de Araujo 
 - 🔭 Hoje eu trabalho com Geoprocessamento.
-- 🌱 Sou estudante de Desenvolvimento na Trybe.
+- 🌱 Sou estudante de Desenvolvimento na Trybe
 - 📫 Faça contato comigo pelo email: gabrielproencaaraujo@gmail.com
 <br> 
  <div> 
