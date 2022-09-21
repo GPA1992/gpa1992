@@ -2,6 +2,7 @@
 - 🔭 Hoje eu trabalho com Geoprocessamento
 - 🌱 Sou estudante de Desenvolvimento na Trybe
 - 📫 Faça contato comigo pelo email: gabrielproencaaraujo@gmail.com
+- 🧐 https://www.linkedin.com/in/gabrielproencaaraujo
 <br> 
  <div> 
         <a href="https://github.com/GPA1992"></a>
