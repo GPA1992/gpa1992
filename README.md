@@ -4,6 +4,7 @@
 - 🌱 Sou estudante de Desenvolvimento na Trybe
 - 📫 Faça contato comigo pelo email: gabrielproencaaraujo@gmail.com
 - 🧐 https://www.linkedin.com/in/gabrielproencaaraujo
+- ✅ https://gabrielproenca.netlify.app/
 <br> 
  
 
@@ -14,4 +15,6 @@
         <img align="center" alt="GPA-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="max-width: 100%;">
           
 </div>
+
+
 
