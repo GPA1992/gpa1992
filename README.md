@@ -5,7 +5,7 @@
 - 🧐 LinkedIn.: https://www.linkedin.com/in/gabrielproencaaraujo
 - ✅ Portfolio: https://gabrielproenca.netlify.app/
 - 📝 Curriculo: https://github.com/GPA1992/curriculo-GPA
-
+#### Wordpress, Git&Github, JS, TS, React, React Native, Redux, Jest, Docker, NodeJs, Express, Sequelize, MySql, AWS
 
 
 
