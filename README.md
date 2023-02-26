@@ -1,5 +1,5 @@
 ## Olá, sou o Gabriel Proença de Araujo 
-- 💻 Developer Engineer
+- 💻 Software Engineer
 - 🌱 Sou estudante de Desenvolvimento na Trybe
 - 📫 Faça contato comigo pelo email: gabrielproencaaraujo@gmail.com
 - 🧐 LinkedIn.: https://www.linkedin.com/in/gabrielproencaaraujo
