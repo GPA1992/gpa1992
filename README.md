@@ -6,7 +6,7 @@
 - 🧐 LinkedIn.: https://www.linkedin.com/in/gabrielproencaaraujo
 - ✅ Portfolio: https://gabrielproenca.netlify.app/
 - 📝 Curriculo: https://github.com/GPA1992/curriculo-GPA
-#### Software Engineer | Software Developer Fullstack | Js | Ts | React | Redux | Git | Jest | Docker | NodeJs | MySql | Sequelize | Mobile | AWS
+#### Desenvolvedor Fullstack | Ts | React | NODEjs | MySQL | Python
 
 
 
