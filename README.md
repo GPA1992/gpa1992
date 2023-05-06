@@ -1,5 +1,5 @@
 ## Olá, sou o Gabriel Proença de Araujo 
-- 💻 Software Engineer
+- 💻 Desenvolvedor Fullstack
 - 🌱 Cursando Ciencias da Computação
 - 🌱 Formado em Desenvolvimento Web Full Stack pela Trybe
 - 📫 Faça contato comigo pelo email: gabrielproencaaraujo@gmail.com
