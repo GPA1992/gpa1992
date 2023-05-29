@@ -1,6 +1,7 @@
 ## Olá, sou o Gabriel Proença de Araujo 
 - 💻 Desenvolvedor Fullstack
-- 🌱 Cursando Ciencias da Computação
+- 💻 Desenvolvedor Front-end na Falex CNI
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas - PUCPR
 - 🌱 Formado em Desenvolvimento Web Full Stack pela Trybe
 - 📫 Faça contato comigo pelo email: gabrielproencaaraujo@gmail.com
 - 🧐 LinkedIn.: https://www.linkedin.com/in/gabrielproencaaraujo
