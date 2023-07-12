@@ -1,6 +1,6 @@
 ## Olá, sou o Gabriel Proença de Araujo 
 - 💻 Desenvolvedor Fullstack
-- 💻 Desenvolvedor Front-end| Angular | React Native na Falex CNI
+- 💻 Desenvolvedor Fullstack na Falex CNI
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas | PUCPR
 - 🌱 Formado em Desenvolvimento Web Full Stack pela Trybe
 - 📫 Faça contato comigo pelo email: gabrielproencaaraujo@gmail.com
